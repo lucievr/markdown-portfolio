@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+! [Lucie's icon profile picture] (https://avatars1.githubusercontent.com/u/46979603?s=460&v=4)
